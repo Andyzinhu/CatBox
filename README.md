@@ -8,8 +8,6 @@ Purpose:
 > 
 > **The website and its structure were developed by /Andyzinhu /M4teus2020 and /Pdezin.**
 >
-> **Having its back-end structures being performed by /M4theus2020.**
->
 > **Having all its Front-end including responsiveness, layout and interactivity using Js made by /Pdezin and /Andyzinhu.**
 >
 ## Feel free to clone and use our application as long as it serves as a learning experience and does not involve raising profits.
